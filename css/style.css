@@ -1,0 +1,9 @@
+.card {
+    width: 400px !important;
+    display: flex;
+    align-items: center;
+}
+.card-container {
+    display: flex;
+    justify-content: space-evenly;
+}
